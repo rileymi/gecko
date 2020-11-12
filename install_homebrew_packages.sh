@@ -1,5 +1,6 @@
 #!/bin/sh
 
+brew install cmake
 brew install git
 
 brew cask install iterm2
